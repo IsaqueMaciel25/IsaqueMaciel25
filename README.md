@@ -2,7 +2,7 @@
 
 **`Analista de Dados Junior`**
 
-Me chamo Isaque Maciel, tenho 20 anos e sou natural de Osasco, São Paulo. Concluí o ensino médio no Fernando Buonaduce.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM Anhenbi Morumbi. Sou apaixonado por tecnologia.
+Me chamo Isaque Maciel, tenho 20 anos e sou natural de Osasco, São Paulo. Concluí o ensino médio no Fernando Buonaduce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM Anhenbi Morumbi. Sou apaixonado por tecnologia.
 
 
 
