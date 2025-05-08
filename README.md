@@ -1,6 +1,6 @@
 # 🧑🏼‍💻 Isaque Maciel
 
-**`Analista de Dados Junior`**
+**`Analista // Desenvolvedor`**
 
 Me chamo Isaque Maciel, tenho 20 anos e sou natural de Osasco, São Paulo. Concluí o ensino médio no Fernando Buonaduce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM Anhenbi Morumbi. Sou apaixonado por tecnologia.
 
@@ -33,20 +33,4 @@ Me chamo Isaque Maciel, tenho 20 anos e sou natural de Osasco, São Paulo. Concl
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
