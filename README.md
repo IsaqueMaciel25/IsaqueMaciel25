@@ -1,36 +1,37 @@
-# 🧑🏼‍💻 Isaque Maciel
-
-**`Analista // Desenvolvedor`**
-
-Me chamo Isaque Maciel, tenho 20 anos e sou natural de Osasco, São Paulo. Concluí o ensino médio no Fernando Buonaduce. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UAM Anhenbi Morumbi. Sou apaixonado por tecnologia.
-
-
+<div align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Banner Épico"/>
+  <h1>🧙‍♂️ Bem-vindo ao Reino de Código e Magia!</h1>
+  <p>Desenvolvendo mundos, linguagens e relíquias digitais.</p>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ✨ Projetos em Destaque
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+🔮 **Chamas do Véu**  
+> Saga interativa com cristais arcanos, impérios em guerra e criaturas ancestrais.  
+Tecnologias: HTML, CSS, React, Tailwind, Markdown RPG
+
+⚙️ **THÉOS Automobili**  
+> Portfólio de supercarros inspirados no Monte Olimpo.  
+Tecnologias: React, Vite, Animações, Design 3D
+
+🌱 **LUMINA — Projeto Sustentável**  
+> Iniciativa de tecnologia verde e design ecológico futurista.  
+Tecnologias: Next.js, Framer Motion, OpenAI
+
+---
+
+### 📜 Missões (To-Do épico)
+
+- [x] Iniciar repositório do Véu  
+- [x] Criar README com temática mágica  
+- [ ] Publicar arte dos selos arcanos  
+- [ ] Implementar linguagem resistente ao silêncio (Kalaz'Nûr)
+
+---
+
+### 📫 Contato
+
+- 🌐 Site/Portfólio: em breve
+- ✉️ Email: druida@veilcodex.com (exemplo)
